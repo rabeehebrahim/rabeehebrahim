@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=3B82F6&text=Rabeeh%20Ebrahim&section=header&textBg=false&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=20a7db&text=Rabeeh%20Ebrahim&fontColor=FFFFFF&fontSize=70)
 
 
 # About Me :man_technologist:
