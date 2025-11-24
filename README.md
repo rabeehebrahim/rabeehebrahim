@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/0383ef8c-f978-46c9-a3e7-74f8ad008a2c)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=3B82F6&text=Rabeeh%20Ebrahim&section=header&textBg=false&fontColor=FFFFFF)
+
 
 # About Me :man_technologist:
 :dart: MERN Stack Developer.<br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br> :bust_in_silhouette: Visit My Portfolio at [rabeeh.cloud](https://rabeeh.cloud)<br> :mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
