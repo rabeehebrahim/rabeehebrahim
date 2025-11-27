@@ -6,7 +6,7 @@
 :computer: Passionate about frontend development, clean UI/UX, and writing maintainable, scalable code.<br>
 :people_holding_hands: Open to collaborating on open-source and meaningful JavaScript/TypeScript projects.<br>
 :seedling: Always learning — exploring productivity, better coding practices, and continuous improvement.<br>
-:bust_in_silhouette: Check out my portfolio at [rabeeh.cloud](https://rabeeh.cloud)
+:bust_in_silhouette: Check out my portfolio at [rabeeh.cloud](https://rabeeh.cloud)<br>
 :spiral_notepad: Download my [resume](https://rabeeh.cloud/files/resume.pdf) 
 <br>
 :mailbox_with_mail: Reach me at rabeehebrahim48@gmail.com
